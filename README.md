@@ -17,7 +17,7 @@ An AI-powered application that detects human faces and identifies emotions (Happ
 
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Face-Emotion-AI.git](https://github.com/YOUR_USERNAME/Face-Emotion-AI.git)
+   git clone [https://github.com/abhisheksharma12891/Face-Emotion-AI.git](https://github.com/abhisheksharma12891/Face-Emotion-AI.git)
 
 ## Install Dependencies
    pip install -r requirements.txt
