@@ -56,8 +56,8 @@ An advanced computer vision application that detects facial emotions in real-tim
 
 ## 📂 Project Structure
 
-Face-Emotion-AI/ ├── emotion.py # Main application script 
-                 ├── requirements.txt # List of dependencies 
+Face-Emotion-AI/ ├── emotion.py # Main application script\ 
+                 ├── requirements.txt # List of dependencies\ 
                  └── README.md # Project documentation
 
 ## 🚀 How to Run Locally
@@ -83,7 +83,7 @@ python emotion.py
 
 3. The AI will detect your emotion and display it in **Green**.
 
-4. Look below your face—it will suggest a **Song** matching your mood! 🎶
+4. Look below your face, it will suggest a **Song** matching your mood! 🎶
 
 5. Press **'q'** to exit the application.
 
