@@ -61,7 +61,7 @@ Face-Emotion-AI/
 ├── emotion.py # Main application script
 ├── requirements.txt # List of dependencies
 └── README.md # Project documentation
-
+```
 
 ## 🚀 How to Run Locally
 
