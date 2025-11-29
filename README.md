@@ -107,6 +107,12 @@ python emotion.py
 
 * **Neutral** → Suggests *'Lo-Fi Beats'*
 
+* **Surprise** → Suggests *'Wow by Post Malone'*
+
+* **Fear** → Suggests *'Thriller by Michael Jackson'*
+
+* **Disgust** → Suggests *'Bad Guy by Billie Eilish'*
+
 ### 👨‍💻 Author
 
 **Abhishek Sharma** *Aspiring AI Engineer & Data Scientist*
