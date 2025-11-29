@@ -56,9 +56,12 @@ An advanced computer vision application that detects facial emotions in real-tim
 
 ## 📂 Project Structure
 
-Face-Emotion-AI/ ├── emotion.py # Main application script <br> 
-                 ├── requirements.txt # List of dependencies <br>
-                 └── README.md # Project documentation
+```text
+Face-Emotion-AI/
+├── emotion.py # Main application script
+├── requirements.txt # List of dependencies
+└── README.md # Project documentation
+
 
 ## 🚀 How to Run Locally
 
