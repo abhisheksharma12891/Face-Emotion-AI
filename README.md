@@ -66,15 +66,22 @@ Face-Emotion-AI/
 ## 🚀 How to Run Locally
 
 ### 1. Clone the Repository
+```
 git clone https://github.com/abhisheksharma12891/Face-Emotion-AI.git
 cd Face-Emotion-AI
+```
 
 ### 2. Install Dependencies
-Make sure you have Python installed. Then run:
+Make sure you have Python installed. <br>
+Then run:
+```
 pip install -r requirements.txt
+```
 
-### 3. Run the App
+### 3. Run the Script
+```
 python emotion.py
+```
 
 *(Note: The first run might take a few minutes to download the AI models.)*
 
